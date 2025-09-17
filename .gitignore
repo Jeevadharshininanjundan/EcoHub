@@ -1,0 +1,12 @@
+# Node backend
+backend/node_modules/
+backend/.env
+
+# React frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# OS / Editor files
+.DS_Store
+.vscode/
